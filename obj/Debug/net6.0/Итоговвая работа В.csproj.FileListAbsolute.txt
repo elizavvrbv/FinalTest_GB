@@ -1,0 +1,15 @@
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\bin\Debug\net6.0\Итоговвая работа В.exe
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\bin\Debug\net6.0\Итоговвая работа В.deps.json
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\bin\Debug\net6.0\Итоговвая работа В.runtimeconfig.json
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\bin\Debug\net6.0\Итоговвая работа В.dll
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\bin\Debug\net6.0\Итоговвая работа В.pdb
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\Итоговвая работа В.csproj.AssemblyReference.cache
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\Итоговвая работа В.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\Итоговвая работа В.AssemblyInfoInputs.cache
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\Итоговвая работа В.AssemblyInfo.cs
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\Итоговвая работа В.csproj.CoreCompileInputs.cache
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\Итоговвая работа В.dll
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\refint\Итоговвая работа В.dll
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\Итоговвая работа В.pdb
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\Итоговвая работа В.genruntimeconfig.cache
+C:\Users\mi\Desktop\GeekBrains\Итоговвая работа В\obj\Debug\net6.0\ref\Итоговвая работа В.dll
